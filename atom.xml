@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-05-26T08:14:12.259Z</updated>
+  <updated>2019-05-26T09:19:03.043Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/markdown%E7%9A%84%E4%BD%BF%E7%94%A8.html"/>
     <id>http://yoursite.com/markdown的使用.html</id>
     <published>2019-05-26T08:00:00.000Z</published>
-    <updated>2019-05-26T08:14:12.259Z</updated>
+    <updated>2019-05-26T09:19:03.043Z</updated>
     
-    <content type="html"><![CDATA[<a id="more"></a>]]></content>
+    <content type="html"><![CDATA[<a id="more"></a><p>Markdown 是一种轻量级标记语言，易读易写，适用于网络的书写语言，而且Markdown支持嵌入html标签。<br>注意：Markdown使用#、+、*等符号来标记，符号后面必须跟上至少1个空格才有效；如果要换行，则空两个以上空格再回车。</p><h2 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h2><p>用#标记，在标题开头加上1~6不同个数的#，分别代表一级、二级….六级标题。</p><pre><code># 一级标题  ## 二级标题  ### 三级标题  #### 四级标题  ##### 五级标题  ###### 六级标题  </code></pre><h2 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h2><p>无序列表使用-、+和*作为列表标记：</p><pre><code>- Red+ Green* Blue</code></pre><p>有序列表使用数字加英文句点.来表示：</p><pre><code>1. Red2. Green3. Blue</code></pre><h2 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h2><p>用&gt;来表示，不同数量的&gt;代表多级引用。</p><pre><code>&gt; 一级引用&gt; &gt; 二级引用&gt; &gt; &gt; 三级引用</code></pre><h2 id="强调"><a href="#强调" class="headerlink" title="强调"></a>强调</h2><p>两个<em>或-代表加粗，一个</em>或-代表斜体，~~代表删除。</p><pre><code>**加粗文本** __加粗文本__*斜体文本*_斜体文本_~~删除文本~~</code></pre><h2 id="图片与链接"><a href="#图片与链接" class="headerlink" title="图片与链接"></a>图片与链接</h2><pre><code>图片：![]()  ![图片文本(可忽略)](图片地址)行内式链接：[链接文本](链接地址)参考式链接：[链接文本][url]，其中url为链接标记，可置于文中任意位置。[url]: http://jpdong00.github.io/ &quot;链接文本&quot;(可忽略)</code></pre><h2 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h2><p>行内代码使用 <code>代码</code> 标识，可嵌入文字中。  </p><p>代码块使用4个空格或```标识，一般我会选中代码按tab键。 如下：</p><pre><code>public static void main(String[] args) {      int a = 10;      System.out.println(&quot;a = &quot; + a);  }</code></pre><h2 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h2><ul><li><p>居左：<code>:----</code> </p></li><li><p>居中：<code>:----:</code>或<code>-----</code>  </p></li><li><p>居右：<code>----:</code> </p><table><thead><tr><th align="left">标题</th><th align="center">标题</th><th align="right">标题</th></tr></thead><tbody><tr><td align="left">居左测试文本</td><td align="center">居中测试文本</td><td align="right">居右测试文本</td></tr><tr><td align="left">居左测试文本1</td><td align="center">居中测试文本2</td><td align="right">居右测试文本3</td></tr></tbody></table></li></ul><h2 id="分隔线"><a href="#分隔线" class="headerlink" title="分隔线"></a>分隔线</h2><p>在一行中用三个以上的*、-、_来建立一个分隔线，行内不能有其他东西。也可以在符号间插入空格。</p><pre><code>***---___* * *</code></pre><h2 id="脚注-注解"><a href="#脚注-注解" class="headerlink" title="脚注(注解)"></a>脚注(注解)</h2><p>使用[^]来定义脚注：</p><pre><code>这是一个脚注的例子[^1][^1]，代表脚注</code></pre><h2 id="常用的Html标签"><a href="#常用的Html标签" class="headerlink" title="常用的Html标签"></a>常用的Html标签</h2><h3 id="字体"><a href="#字体" class="headerlink" title="字体"></a>字体</h3><pre><code>&lt;font face=&quot;微软雅黑&quot; color=&quot;red&quot; size=&quot;6&quot;&gt;字体及字体颜色和大小&lt;/font&gt;  &lt;font color=&quot;#0000ff&quot;&gt;字体颜色&lt;/font&gt;</code></pre><h3 id="文本对齐方式"><a href="#文本对齐方式" class="headerlink" title="文本对齐方式"></a>文本对齐方式</h3><pre><code>&lt;p align=&quot;left&quot;&gt;居左文本&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;居中文本&lt;/p&gt;&lt;p align=&quot;right&quot;&gt;居右文本&lt;/p&gt;</code></pre><h3 id="下划线"><a href="#下划线" class="headerlink" title="下划线"></a>下划线</h3><pre><code>&lt;u&gt;下划线文本&lt;/u&gt;</code></pre>]]></content>
     
     <summary type="html">
     
