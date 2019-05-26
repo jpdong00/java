@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+<<<<<<< HEAD
     <loc>http://jpdong00.github.io/2019/05/25/markdown%E7%9A%84%E4%BD%BF%E7%94%A8/</loc>
     <lastmod>2019-05-25</lastmod>
   </url>  <url>
@@ -8,6 +9,12 @@
     <lastmod>2019-05-25</lastmod>
   </url>  <url>
     <loc>http://jpdong00.github.io/2019/05/25/hello-world/</loc>
+=======
+    <loc>http://yoursite.com/%E7%94%A8github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.html</loc>
+    <lastmod>2019-05-26</lastmod>
+  </url>  <url>
+    <loc>http://yoursite.com/markdown%E7%9A%84%E4%BD%BF%E7%94%A8.html</loc>
+>>>>>>> Site updated: 2019-05-26 13:37:41
     <lastmod>2019-05-25</lastmod>
   </url>
 </urlset>
